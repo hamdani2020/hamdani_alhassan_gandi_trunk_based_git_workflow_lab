@@ -61,3 +61,9 @@ git push origin main
 ## Branch Structure
 - `main`- Production-ready code
 - `freature/*`- Short-lived feature branches(optional)
+
+## Workflow Diagram
+
+main       --*------------------*------>
+            |                   ^
+feature     ----*--*--*--------'
